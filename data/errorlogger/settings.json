@@ -1,0 +1,10 @@
+{
+    "Channel" : "277835342936014848",
+    "Channel Logs" : true,
+    "Direct Message" : false,
+    "Error Logs" : true,
+    "Resumed" : true,
+    "Server Logs" : true,
+    "Startup" : true,
+    "Toggle" : true
+}

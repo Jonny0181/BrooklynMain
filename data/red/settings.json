@@ -1,0 +1,27 @@
+{
+    "133049272517001216" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Mod",
+        "PREFIXES" : []
+    },
+    "279411197491544065" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Mod",
+        "PREFIXES" : [
+            "b!",
+            "!"
+        ]
+    },
+    "EMAIL" : null,
+    "OWNER" : "146040787891781632",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "b!"
+    ],
+    "TOKEN" : "MjI2MTMyMzgyODQ2MTU2ODAw.C3aiiw.63jr7Ufco2FxzqVRet2vg6gc488",
+    "default" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Mod",
+        "PREFIXES" : []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "236311632198762496" : {
+        "Channel" : "236311632198762496",
+        "Embed" : false,
+        "Invites" : {
+            "http://discord.gg/3NPPDDu" : 0,
+            "http://discord.gg/3k3he5V" : 0,
+            "http://discord.gg/6UQZNqr" : 1,
+            "http://discord.gg/7aVKZAY" : 25,
+            "http://discord.gg/9aKYcR4" : 45,
+            "http://discord.gg/BMqzrKE" : 0,
+            "http://discord.gg/ETqpvsa" : 0,
+            "http://discord.gg/FG6Rzxh" : 0,
+            "http://discord.gg/SYDdBA8" : 0,
+            "http://discord.gg/aNsSf" : 0,
+            "http://discord.gg/fmuvSX9" : 104,
+            "http://discord.gg/gU25yUF" : 4,
+            "http://discord.gg/rDwrRpt" : 0,
+            "http://discord.gg/weDWNJm" : 0
+        },
+        "botrole" : null,
+        "botroletoggle" : false,
+        "join" : true,
+        "joinmessage" : "Welcome to {2.name} {0.mention}! If you need any support with anything please go to <#246409132893011968>! And please enjoy your say here! And thank you for choosing <@226132382846156800>!",
+        "leave" : true,
+        "leavemessage" : "{0.name} has left! Sad to see you leave fam."
+    },
+    "279411197491544065" : {
+        "Channel" : "279411197491544065",
+        "Embed" : false,
+        "Invites" : {
+            "http://discord.gg/DFBYA" : 1,
+            "http://discord.gg/E6fyJ" : 0,
+            "http://discord.gg/Fr5HU" : 2,
+            "http://discord.gg/avztXq9" : 12,
+            "http://discord.gg/nU3ZX" : 6,
+            "http://discord.gg/p459S" : 0,
+            "http://discord.gg/qv9DV" : 1,
+            "http://discord.gg/zWxjH" : 3
+        },
+        "botrole" : null,
+        "botroletoggle" : false,
+        "join" : true,
+        "joinmessage" : "Welcome to {2.name} {0.mention}! If you would please read <#279440208049471490> that would be nice, and enjoy your stay!",
+        "leave" : true,
+        "leavemessage" : "{0.name} has left {2.name}, sad to see you leave fam."
+    }
+}
