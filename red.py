@@ -318,7 +318,7 @@ def initialize(bot_class=Bot, formatter_class=Formatter):
         owner = await set_bot_owner()
         print(str(bot.user))
         payload = {
-"token": 'lpl9vjkgpf',
+"token": 'token',
 "servers": len(bot.servers)
 }
         url = "https://bots.discordlist.net/api.php"
